@@ -42,7 +42,7 @@ ToDoAppSwiftUI/
 ## Build & Run
 1) Open the project:
 ```bash
-cd "/Users/jakub/Documents/To do list"
+cd "~/Documents/To do list"
 open ToDoAppSwiftUI.xcodeproj
 ```
 2) In Xcode:
