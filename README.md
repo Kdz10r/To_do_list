@@ -67,4 +67,9 @@ File: `~/Documents/ToDoApp/tasks.json`
   "priority": "medium",
   "createdDate": "2026-03-05"
 }
-```
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
